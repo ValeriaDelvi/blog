@@ -1,0 +1,6 @@
+Perchè un nuovo folder context e non nella cartella componenti?
+
+Di solito quando creiamo un context
+che deve gestire dei dati, in genere abbiamo una sola copia
+di quella cosa in giro e quindi la vogliamo ISOLARE
+quei dati.
